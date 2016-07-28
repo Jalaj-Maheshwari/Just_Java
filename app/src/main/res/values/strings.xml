@@ -1,0 +1,13 @@
+<resources  xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">Just Java</string>
+    <string name="hint">Name</string>
+    <string name="toppings">Toppings</string>
+    <string name="Whipped_Cream">Whipped_Cream</string>
+    <string name="Chocolate">Chocolate</string>
+    <string name="Quantity">Quantity</string>
+    <string name="order">Order</string>
+    <string name="Email_subject"> Just java order for <xliff:g id="Customer_name" example="Jalaj">%s</xliff:g>  </string>
+    <string name="priceMessage">Name: <xliff:g id="Customer_name" example="Jalaj">%s</xliff:g>\nAdd Whipped Cream? <xliff:g id="hasWhippedCream" example="true">%b</xliff:g>\nAdd Chocolate? <xliff:g id="hasChocolate" example="true">%b</xliff:g>\nQuantity: <xliff:g id="quanity" example="2">%d</xliff:g>\nPrice: <xliff:g id="price" example="$10">$ %d</xliff:g>\nThank You!!</string>
+    <string name="positive_toast">Cannot have more than 100 cups of coffee</string>
+    <string name="negative_toast">You should have atleast 1 cup of Coffee</string>
+</resources>
